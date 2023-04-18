@@ -3,11 +3,12 @@
 npx create-react-app smarttemp
 
 # import the necessary libraries
-# in this project i used the database as a firebase firestore so we need to import the npm firebase package
+
+in this project i used the database as a firebase firestore so we need to import the npm firebase package
 
 npm install firebase
 
-# for login and sign up in this project i used bootstrap so we need to import bootstrap package
+#login and sign up in this project i used bootstrap so we need to import bootstrap package
 
 npm install react-bootstrap bootstrap
 
